@@ -26,4 +26,5 @@ v. Feature Checklist:
 • Enable users to track their order status (e.g., Preparing, Ready for Pickup).
 • Implement a loyalty system where users earn points for each order, redeemable for discounts.
  
-vii. API Documentation ![Screenshot (1)](https://github.com/user-attachments/assets/1c7875be-2bb1-4ad6-bd83-2a49891a0ebd)
+vii. API Documentation ![Screenshot (1)](https://github.com/user-attachments/assets/1c7875be-2bb1-4ad6-bd83-2a49891a0ebd ![Uploading Screenshot (2).png…]()
+
