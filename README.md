@@ -25,6 +25,13 @@ v. Feature Checklist:
 • Allow users to review and adjust their orders before confirming.
 • Enable users to track their order status (e.g., Preparing, Ready for Pickup).
 • Implement a loyalty system where users earn points for each order, redeemable for discounts.
+
+
+https://github.com/MaameArabaa/Food_Ordering_SystemFrontend.git- frontend repository link
+https://dashboard.render.com/web/srv-ctarqrl6l47c73bpinmg/deploys/dep-ctarqrt6l47c73bpinq0- back end repository link
+https://meskitchen.netlify.app/- working application
+
+
  
 vii. API Documentation; 
 ![Screenshot (2)](https://github.com/user-attachments/assets/ea2f678f-8c5e-4679-ba31-220d0317c315)
